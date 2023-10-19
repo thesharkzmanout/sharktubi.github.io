@@ -1,0 +1,69 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Oct 2023 23:21:46 at https://youtube-home-clone.vercel.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2t%Pns2u1%s%uN0%I0p7DaK0H0%kf2A25000%f0#f -F HTTrack/3.0x -%F  -%l "en, *" https://youtube-home-clone.vercel.app/ -O1 "D:\sites\youtbe" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:21:56	Error: 	"Not Found" (404) at link https://fonts.googleapis.com/ (from https://youtube-home-clone.vercel.app/)
+23:21:57	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://youtube-home-clone.vercel.app/)
+23:22:00	Warning: 	Found for https://source.unsplash.com/1800x900/?river
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1800x900/?river to https://images.unsplash.com/photo-1512144915806-39e29c5565a9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8cml2ZXJ8fHx8fHwxNjk3Njg2MzI0&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1800
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x910/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x910/?landscape to https://images.unsplash.com/photo-1434725039720-aaad6dd32dfe?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=910&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyNA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1620x900/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1620x900/?landscape to https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyNA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1620
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x900/
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x900/ to https://plus.unsplash.com/premium_photo-1671512499810-ac5b5dd3bc2b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NzY4NjMyNQ&ixlib=rb-4.0.3&q=80&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x900/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x900/?landscape to https://images.unsplash.com/photo-1465147264724-326b45c3c59b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyNQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1900x900/
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1900x900/ to https://images.unsplash.com/photo-1695048245584-0e017dbc747a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NzY4NjMyNQ&ixlib=rb-4.0.3&q=80&w=1900
+23:22:00	Warning: 	Found for https://source.unsplash.com/1630x900/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1630x900/?landscape to https://images.unsplash.com/photo-1422466654108-5e533f591881?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyNg&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1630
+23:22:00	Warning: 	Found for https://source.unsplash.com/1550x900/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1550x900/?landscape to https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyNg&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1550
+23:22:00	Warning: 	Found for https://source.unsplash.com/1370x900/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1370x900/?landscape to https://images.unsplash.com/photo-1559827291-72ee739d0d9a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyNw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1370
+23:22:00	Warning: 	Found for https://source.unsplash.com/1390x900/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1390x900/?landscape to https://images.unsplash.com/photo-1523978591478-c753949ff840?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyNw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1390
+23:22:00	Warning: 	Found for https://source.unsplash.com/1340x900/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1340x900/?landscape to https://images.unsplash.com/photo-1506744038136-46273834b3fb?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyOA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1340
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x930/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x930/?landscape to https://images.unsplash.com/photo-1552152370-fb05b25ff17d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=930&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyOA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1400x930/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1400x930/?landscape to https://images.unsplash.com/photo-1464983953574-0892a716854b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=930&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyOQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1400
+23:22:00	Warning: 	Found for https://source.unsplash.com/1200x950/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1200x950/?landscape to https://images.unsplash.com/photo-1515825838458-f2a94b20105a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=950&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyOQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1200
+23:22:00	Warning: 	Found for https://source.unsplash.com/1690x934/?landscape
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1690x934/?landscape to https://images.unsplash.com/photo-1518717202715-9fa9d099f58a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=934&ixid=MnwxfDB8MXxyYW5kb218MHx8bGFuZHNjYXBlfHx8fHx8MTY5NzY4NjMyOQ&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1690
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x932/
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x932/ to https://images.unsplash.com/photo-1695937107602-d9ac53393ccf?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=932&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NzY4NjMzMA&ixlib=rb-4.0.3&q=80&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1690x900/
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1690x900/ to https://images.unsplash.com/photo-1697382803396-e6ece604650f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NzY4NjMzMA&ixlib=rb-4.0.3&q=80&w=1690
+23:22:00	Warning: 	Found for https://source.unsplash.com/1640x900/
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1640x900/ to https://images.unsplash.com/photo-1696457016390-ed8882512435?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NzY4NjMzMQ&ixlib=rb-4.0.3&q=80&w=1640
+23:22:00	Warning: 	Found for https://source.unsplash.com/1400x900/
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1400x900/ to https://plus.unsplash.com/premium_photo-1681276171039-e3ba133e8d88?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY5NzY4NjMzMQ&ixlib=rb-4.0.3&q=80&w=1400
+23:22:00	Warning: 	Found for https://source.unsplash.com/1900x900/?bird
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1900x900/?bird to https://images.unsplash.com/photo-1549586073-f4c3b7ff044a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8YmlyZHx8fHx8fDE2OTc2ODYzMzI&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1900
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x900/?animal
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x900/?animal to https://images.unsplash.com/photo-1570481662006-a3a1374699e8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8YW5pbWFsfHx8fHx8MTY5NzY4NjMzMg&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x900/?funny
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x900/?funny to https://images.unsplash.com/photo-1618517047922-d18a5a36c109?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8ZnVubnl8fHx8fHwxNjk3Njg2MzMy&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x900/?dance
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x900/?dance to https://images.unsplash.com/photo-1636141319019-eca800ba6d73?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8ZGFuY2V8fHx8fHwxNjk3Njg2MzMy&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x900/?github
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x900/?github to https://images.unsplash.com/photo-1654277041218-84424c78f0ae?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8Z2l0aHVifHx8fHx8MTY5NzY4NjMzMw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x900/?photo
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x900/?photo to https://images.unsplash.com/photo-1487530811176-3780de880c2d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8cGhvdG98fHx8fHwxNjk3Njg2MzMz&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x900/?fun
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x900/?fun to https://images.unsplash.com/photo-1516749622035-ab9e45262e0c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8ZnVufHx8fHx8MTY5NzY4NjMzNA&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x900/?game
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x900/?game to https://images.unsplash.com/photo-1560529178-855fa2041193?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8Z2FtZXx8fHx8fDE2OTc2ODYzMzU&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600
+23:22:00	Warning: 	Found for https://source.unsplash.com/1600x900/?space
+23:22:00	Warning: 	File has moved from https://source.unsplash.com/1600x900/?space to https://images.unsplash.com/photo-1537147347432-676815edd56c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=MnwxfDB8MXxyYW5kb218MHx8c3BhY2V8fHx8fHwxNjk3Njg2MzM1&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 39 links scanned, 6 files written (156461 bytes overall) [93163 bytes received at 6210 bytes/sec], 100513 bytes transferred using HTTP compression in 6 files, ratio 14%, 3.1 requests per connection
+(2 errors, 56 warnings, 0 messages)
